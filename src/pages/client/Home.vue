@@ -1,5 +1,7 @@
 <script setup>
 </script>
 <template>
-    Home Page
+    <div class="h-[100vh]">
+
+    </div>
 </template>
