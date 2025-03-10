@@ -1,0 +1,5 @@
+export { default as Dashboard} from "./Dashboard.vue"
+export { default as AdminHome} from "./AdminHome.vue"
+export { default as AdminAbout} from "./AdminAbout.vue"
+export { default as AdminContac} from "./AdminContact.vue"
+export { default as AdminProject} from "./AdminProject.vue"
